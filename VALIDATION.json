@@ -1,0 +1,12 @@
+{
+  "repository": "conformacell",
+  "scope": "Portable engineering tests and explicitly synthetic metadata demo; no biological research rerun",
+  "tests_run": 77,
+  "tests_exit_code": 0,
+  "demo_exit_code": 0,
+  "wall_seconds": 1.2676404626108706,
+  "python": "3.12.3",
+  "test_command": "PYTHONPATH=src python -B -m unittest discover -s tests -v",
+  "model_training": false,
+  "external_requests": false
+}
